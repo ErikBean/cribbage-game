@@ -11,5 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "pixi.js": "^5.3.3"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
