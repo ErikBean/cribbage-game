@@ -9,12 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "pixi.js": "^5.3.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "serve": "^11.3.2",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "serve": "^11.3.2"
   }
 }
